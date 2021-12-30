@@ -1,4 +1,4 @@
-WizCoin
+WizCoin :b
 ======
 
 Module
